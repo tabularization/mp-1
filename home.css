@@ -57,7 +57,7 @@ nav {
 main {
   padding: 3.5vh 3.5vw;
   width: 70%;
-  height: 100vh;
+  min-height: 100vh;
   background-color: #051320;
   font-weight: 500;
 }
